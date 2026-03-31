@@ -1,0 +1,7 @@
+{
+  "name": "Jiandi Voice Agent",
+  "description": "A professional bilingual voice agent for Jiandi Chi, specializing in fashion business and marketing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
